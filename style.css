@@ -10,7 +10,7 @@
 }
 
 .first-buttons {
-    margin: 40px 300px;
+    margin: 40px 200px;
 
 }
 
@@ -26,4 +26,10 @@
 .add-section {
     border-radius: 18%;
     width: 100px;
+}
+
+.editorial {
+    background-color: rgb(20, 170, 245);
+    border-radius: 30%;
+    color: white;
 }
