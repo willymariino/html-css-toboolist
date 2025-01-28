@@ -28,8 +28,21 @@
     width: 100px;
 }
 
+.main {
+    margin: 20px;
+}
+
+.section-content {
+    display: inline-block;
+    margin: 10px;
+}
+
 .editorial {
     background-color: rgb(20, 170, 245);
     border-radius: 30%;
     color: white;
+}
+
+.q1-goals {
+    background-color: rgb(171, 93, 230);
 }
