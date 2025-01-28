@@ -9,11 +9,21 @@
     font-family: sans-serif;
 }
 
-.add-task {
-    margin: 100px;
+.first-buttons {
+    margin: 40px 300px;
 
 }
 
+.add-task {
+    margin-right: 5px;
+    background-color: rgb(20, 170, 245);
+    border-radius: 18%;
+    color: white;
+    width: 70px;
+    border-collapse: collapse;
+}
+
 .add-section {
-    margin: 40px;
+    border-radius: 18%;
+    width: 100px;
 }
