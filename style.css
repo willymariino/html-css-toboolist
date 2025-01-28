@@ -45,4 +45,18 @@
 
 .q1-goals {
     background-color: rgb(171, 93, 230);
+    border-radius: 30%;
+    color: white;
+}
+
+.Recruiting {
+    background-color: rgb(44, 198, 171);
+    border-radius: 30%;
+    color: white;
+}
+
+.Mobile {
+    background-color: rgb(255, 155, 0);
+    border-radius: 30%;
+    color: white;
 }
