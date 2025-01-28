@@ -8,3 +8,12 @@
     display: inline-block;
     font-family: sans-serif;
 }
+
+.add-task {
+    margin: 100px;
+
+}
+
+.add-section {
+    margin: 40px;
+}
