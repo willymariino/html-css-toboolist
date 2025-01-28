@@ -37,6 +37,15 @@
     margin: 10px;
 }
 
+.green-check {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+
+
 .editorial {
     background-color: rgb(20, 170, 245);
     border-radius: 30%;
